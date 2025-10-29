@@ -203,13 +203,30 @@
   "company": {
     "name": "Al-Andalus Auto Shipping",
     "nameEn": "Al-Andalus Auto Shipping",
-    "description": "Your premier destination for high-quality American and Gulf imported vehicles in Libya",
+    "description": "Professional services that drive growth and reduce risk",
     "tagline": "Drive Your Dreams",
-    "phone": "+218 91 234 5678",
+    "phone": "+218 91 383 2520",
     "email": "info@al-andalus-cars.ly",
-    "address": "Tripoli, Libya",
+    "address": "Tripoli | Benghazi, Libya",
     "workingHours": "Sun - Thu: 8:00 AM - 6:00 PM"
   },
+ 
+
+  "services": {
+    "car_import": {
+      "title": "Car Shipping",
+      "description": "Professional car shipping services from the USA and Gulf countries"
+    },
+    "quality_inspection": {
+      "title": "Spare Parts",
+      "description": "Providing spare parts for all types of cars"
+    },
+    "fast_delivery": {
+      "title": "Money Transfers",
+      "description": "Fast and secure transfer to your location"
+    }
+  },
+
   "footer": {
     "aboutUs": "About Us",
     "services": "Our Services",
@@ -223,8 +240,8 @@
     "delivery": "Delivery"
   },
   "hero": {
-    "title": "Find Your Perfect Car",
-    "subtitle": "imported vehicles from America and Gulf countries",
+    "title": "Professionalism that elevates your business",
+    "subtitle": "Professional services that drive growth and reduce risk",
     "cta": "Browse Cars",
     "searchPlaceholder": "Search by make, model, or year..."
   }
